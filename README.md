@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Fun projects with Fun people
 - 📫 You can reach me through my Socials 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Buy me a coffee and you will get my Premium friendship forever😄
+- ⚡ Fun fact: Buy me a coffee and you will be my Premium friend forever😄
 
 <!---
 kkatharva/kkatharva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
