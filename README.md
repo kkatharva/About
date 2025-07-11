@@ -1,5 +1,5 @@
-- Hi, My name is Atharva 👋👋
-- I’m currently learning Development and Data Science 
+- Hey fells!
+- I’m currently learning embedded systems and IOT
 - I’m looking to collaborate on Fun projects with Fun people
 - You can reach me through my Socials 
 
