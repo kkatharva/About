@@ -1,9 +1,20 @@
-- Hey fells!
-- I’m currently learning embedded systems and IOT
-- I’m looking to collaborate on Fun projects with Fun people
-- You can reach me through my Socials 
+🙋‍♂️ Hi, I'm Atharva Latkar  
+📍 From India | 🧠 Electronics & Telecommunication Student 
 
-<!---
-kkatharva/kkatharva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I’m passionate about:
+- Embedded Systems & IoT 
+- Software/Hardware development
+  
+📌 I’m exploring areas like:
+- Embedded Systems & IoT
+- Data Structures and Algorithms
+- Data Science fundamentals
+  
+🌱 Currently Learning:
+- DSA in C++
+- Microcontrollers and Real-time Systems
+
+📫 How to reach me:
+- Email: atharvalatkar1968@gmail.com
+- LinkedIn: [[[linkedin.com/in/atharvalatkar](https://www.linkedin.com/in/atharva-latkar-7a403628b/)
+
