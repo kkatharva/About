@@ -16,5 +16,5 @@
 
 📫 How to reach me:
 - Email: atharvalatkar1968@gmail.com
-- LinkedIn: [[[linkedin.com/in/atharvalatkar](https://www.linkedin.com/in/atharva-latkar-7a403628b/)
+- LinkedIn: [linkedin.com/in/atharvalatkar](https://www.linkedin.com/in/atharva-latkar-7a403628b/)
 
